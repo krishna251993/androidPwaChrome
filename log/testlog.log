@@ -528,3 +528,885 @@
 2019-08-09 23:29:53,534 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in
 2019-08-09 23:31:03,321 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
 2019-08-09 23:32:08,153 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - test completed
+2019-08-11 11:05:08,392 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 11:05:18,181 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 11:07:29,668 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 11:07:38,650 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 11:08:56,908 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 11:08:59,183 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 11:09:01,354 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in
+2019-08-11 11:17:02,302 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - initilizing framework
+2019-08-11 11:17:11,499 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - implicit login
+2019-08-11 11:19:29,467 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - URL Has Been Entered
+2019-08-11 11:19:31,928 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - clicked on menu
+2019-08-11 11:19:34,139 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - clicked on sign in
+2019-08-11 11:20:42,216 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - user id has been entered
+2019-08-11 11:20:52,143 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - password has been entered
+2019-08-11 11:21:54,585 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - device has been cleared
+2019-08-11 11:21:54,586 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - navigate to home page
+2019-08-11 11:21:54,586 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - TimeOut:60
+2019-08-11 11:21:54,612 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - implicit login
+2019-08-11 11:23:55,716 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - test completed
+2019-08-11 11:25:15,204 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - initilizing framework
+2019-08-11 11:25:23,306 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - implicit login
+2019-08-11 11:26:38,412 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - URL Has Been Entered
+2019-08-11 11:26:40,480 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - clicked on menu
+2019-08-11 11:26:42,547 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - clicked on sign in
+2019-08-11 11:32:58,373 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 11:33:07,518 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 11:34:25,214 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 11:34:27,254 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 11:35:31,945 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on subscribe
+2019-08-11 11:35:42,773 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-11 11:35:52,587 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-11 11:36:55,390 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-11 11:36:55,393 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-11 11:36:55,394 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-11 11:36:55,438 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 11:38:56,179 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - test completed
+2019-08-11 11:39:45,769 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - initilizing framework
+2019-08-11 11:39:54,084 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - implicit login
+2019-08-11 11:41:11,962 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - URL Has Been Entered
+2019-08-11 11:41:14,191 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - clicked on menu
+2019-08-11 11:42:19,471 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - clicked on subscribe
+2019-08-11 11:42:30,568 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - user id has been entered
+2019-08-11 11:42:40,551 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - password has been entered
+2019-08-11 11:42:43,911 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - device has been cleared
+2019-08-11 11:42:43,912 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - navigate to home page
+2019-08-11 11:42:43,912 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - TimeOut:60
+2019-08-11 11:42:43,938 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - implicit login
+2019-08-11 11:43:30,856 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 11:43:44,386 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 11:45:06,400 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 11:45:08,559 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 11:46:13,765 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on subscribe
+2019-08-11 11:46:24,753 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-11 11:46:35,074 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-11 11:47:38,077 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-11 11:47:38,078 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-11 11:47:38,078 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-11 11:47:38,101 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 11:49:38,929 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - test completed
+2019-08-11 11:58:38,011 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 11:58:47,113 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 12:00:04,115 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 12:00:06,159 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 12:01:10,440 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on subscribe
+2019-08-11 12:01:21,015 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-11 12:01:30,279 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-11 12:02:33,415 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-11 12:02:33,416 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-11 12:02:33,416 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-11 12:02:33,446 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 12:04:35,097 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - test completed
+2019-08-11 12:09:08,377 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 12:09:16,314 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 12:10:33,115 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 12:10:35,276 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 12:11:40,974 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on subscribe
+2019-08-11 12:11:51,507 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-11 12:12:00,812 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-11 12:13:03,577 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-11 12:13:03,577 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-11 12:13:03,578 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-11 12:13:03,601 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 12:15:04,967 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - test completed
+2019-08-11 12:16:03,697 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 12:17:07,634 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 12:20:20,441 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 12:21:31,606 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 12:22:20,534 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 12:23:53,340 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 12:24:47,973 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 12:27:00,051 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 12:27:16,251 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 12:29:28,850 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on subscribe
+2019-08-11 12:30:42,834 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-11 12:31:23,891 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-11 13:00:54,928 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 13:01:03,835 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 13:02:21,126 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 13:02:23,386 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 13:03:35,992 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-11 13:03:46,449 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-11 13:03:50,391 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-11 13:03:50,392 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-11 13:03:50,392 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-11 13:03:50,417 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 13:05:16,016 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 13:05:23,820 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - test completed
+2019-08-11 13:05:29,949 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 13:06:46,919 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 13:06:48,947 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 13:08:02,621 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-11 13:08:12,137 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-11 13:09:15,386 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-11 13:09:15,387 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-11 13:09:15,387 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-11 13:09:15,411 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 13:11:15,441 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - test completed
+2019-08-11 14:20:13,194 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 14:20:25,221 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 14:21:43,641 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 14:21:46,138 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 14:22:58,944 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-11 14:23:08,062 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-11 14:24:10,430 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-11 14:24:10,431 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-11 14:24:10,431 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-11 14:24:10,461 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 14:34:15,617 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 14:34:51,431 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 14:35:07,433 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 14:36:02,166 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 14:38:19,025 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 14:38:28,083 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 14:39:55,325 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 14:39:57,779 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 14:41:10,721 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-11 14:41:19,863 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-11 14:42:22,656 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-11 14:43:23,482 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-11 14:43:23,482 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-11 14:43:23,516 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 14:44:47,233 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 14:44:56,251 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 14:46:14,055 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 14:46:16,574 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 14:46:24,427 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on subscribe
+2019-08-11 14:47:33,137 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-11 14:47:43,767 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-11 14:48:47,126 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-11 14:49:48,282 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-11 14:49:48,283 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-11 14:49:48,310 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 14:51:49,076 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - test completed
+2019-08-11 14:59:07,433 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 14:59:15,888 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 15:00:33,250 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 15:00:35,756 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 15:00:42,155 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on subscribe
+2019-08-11 15:01:50,742 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-11 15:02:01,209 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-11 15:02:05,082 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-11 15:17:31,460 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 15:17:41,163 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 15:18:59,971 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 15:19:02,422 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 15:25:09,129 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 15:25:18,278 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 15:26:48,132 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 15:26:49,436 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 15:29:15,113 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 15:29:24,584 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 15:30:42,198 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 15:30:43,570 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 20:50:56,837 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 20:51:06,480 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 20:52:24,317 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 20:52:26,690 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 20:53:41,641 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-11 20:58:43,358 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 20:58:52,527 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 21:00:11,280 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 21:00:13,377 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 21:01:26,968 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-11 21:01:39,109 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-11 21:02:42,219 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-11 21:16:05,592 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 21:20:41,934 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 21:22:44,060 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 21:22:51,691 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 21:24:34,537 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-11 21:25:10,291 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-11 21:27:04,063 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-11 21:35:05,663 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 21:35:34,843 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 21:37:39,915 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 21:37:44,994 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 21:38:35,674 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-11 21:38:50,511 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-11 21:41:39,849 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-11 21:49:08,070 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 21:49:22,119 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 21:52:52,510 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 21:53:21,974 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 21:53:35,839 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 21:55:00,825 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 21:55:08,328 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 21:55:41,135 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-11 21:55:53,368 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-11 21:57:01,194 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-11 22:07:25,826 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 22:07:38,040 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 22:09:03,314 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 22:09:11,374 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 22:10:46,845 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-11 22:11:03,151 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-11 22:12:29,889 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-11 22:12:35,966 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-11 22:14:03,542 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-11 22:14:16,445 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-11 22:14:42,493 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-11 22:14:46,726 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-12 11:50:48,452 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 11:51:19,825 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 11:53:06,253 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-12 11:53:42,351 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-12 11:55:18,369 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-12 11:55:36,786 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-12 11:56:44,690 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-12 11:56:46,952 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-12 12:02:10,231 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 12:05:01,976 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 12:05:12,559 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 12:06:30,483 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-12 12:06:32,643 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-12 12:07:46,590 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-12 12:07:55,799 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-12 12:08:58,943 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-12 12:08:58,943 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-12 12:08:58,944 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-12 12:08:59,001 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 12:28:15,150 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 12:30:51,268 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 12:31:01,095 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 12:31:12,677 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 12:31:21,777 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 12:31:36,406 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 12:31:45,633 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 12:33:20,154 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 12:33:28,547 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 12:34:45,817 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-12 12:34:47,844 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-12 12:36:01,435 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-12 12:36:10,919 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-12 12:37:13,303 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-12 12:37:13,303 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-12 12:37:13,305 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-12 12:37:13,354 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 14:48:09,304 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 14:48:59,821 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 14:49:09,532 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 14:50:27,732 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-12 14:50:30,593 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-12 14:51:45,284 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-12 14:57:02,281 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 14:57:11,882 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 14:58:30,738 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-12 14:58:32,466 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-12 15:01:51,119 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 15:02:00,747 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 15:03:19,037 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-12 15:03:21,697 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-12 15:05:34,217 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-12 15:06:47,536 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 15:07:05,475 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 15:10:16,538 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 15:10:25,125 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 15:11:43,634 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-12 15:11:45,740 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-12 15:13:00,292 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-12 15:13:12,683 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-12 15:15:15,506 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 15:15:28,569 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 15:16:48,314 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-12 15:16:50,616 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-12 15:18:04,779 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-12 15:18:24,176 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-12 15:35:14,937 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 16:13:30,214 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 17:27:54,472 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 17:28:04,719 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 17:30:22,616 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-12 17:30:24,081 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-12 17:32:54,680 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 17:33:12,936 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 17:35:09,292 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-12 17:35:20,410 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-12 17:37:38,001 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-12 17:39:08,313 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-12 17:45:53,161 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-12 17:45:55,577 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-12 17:46:00,447 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-12 17:46:46,862 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 18:10:15,478 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 18:11:25,509 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 18:11:36,643 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 18:12:54,507 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-12 18:12:57,171 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-12 18:14:12,842 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-12 18:15:12,997 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 18:15:29,245 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 18:17:12,230 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-12 18:17:20,408 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-12 18:20:00,133 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-12 18:20:50,909 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-12 18:26:17,963 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 18:26:38,762 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 18:29:06,039 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 18:29:29,212 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 18:30:53,494 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-12 18:30:56,230 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-12 18:32:19,240 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-12 18:33:27,589 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-12 18:38:40,697 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-12 18:38:40,697 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-12 18:38:40,698 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-12 18:38:40,723 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 18:45:24,468 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 18:46:16,122 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 18:48:28,530 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-12 18:48:40,538 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-12 18:49:29,418 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-12 18:51:20,585 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-12 18:57:52,016 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-12 18:57:54,649 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-12 18:57:59,590 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-12 18:58:11,501 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 19:03:35,163 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-12 19:03:54,720 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-12 19:05:29,946 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-12 19:05:32,038 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-12 19:07:01,133 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-12 19:08:09,956 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-12 19:14:21,599 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-12 19:14:21,600 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-12 19:14:21,600 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-12 19:14:21,623 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 11:50:47,129 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - initilizing framework
+2019-08-13 11:51:11,127 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - implicit login
+2019-08-13 11:53:36,101 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - URL Has Been Entered
+2019-08-13 11:53:39,259 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - clicked on menu
+2019-08-13 11:55:44,670 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - navigate to home page
+2019-08-13 11:55:44,671 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - TimeOut:60
+2019-08-13 11:55:44,707 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - implicit login
+2019-08-13 11:58:20,199 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - initilizing framework
+2019-08-13 11:59:01,992 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - implicit login
+2019-08-13 12:01:26,678 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - URL Has Been Entered
+2019-08-13 12:01:39,699 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - clicked on menu
+2019-08-13 12:08:17,284 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - initilizing framework
+2019-08-13 12:08:39,988 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - implicit login
+2019-08-13 12:10:02,061 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - URL Has Been Entered
+2019-08-13 12:10:04,398 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - clicked on menu
+2019-08-13 12:10:16,087 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - user id has been entered
+2019-08-13 12:12:17,444 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - navigate to home page
+2019-08-13 12:12:17,445 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - TimeOut:60
+2019-08-13 12:12:17,474 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - implicit login
+2019-08-13 12:13:22,090 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - initilizing framework
+2019-08-13 12:13:42,745 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - implicit login
+2019-08-13 12:15:42,988 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - URL Has Been Entered
+2019-08-13 12:15:52,555 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - clicked on menu
+2019-08-13 12:16:41,555 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - initilizing framework
+2019-08-13 12:17:42,727 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - initilizing framework
+2019-08-13 12:18:11,562 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - implicit login
+2019-08-13 12:20:23,523 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - URL Has Been Entered
+2019-08-13 12:20:35,402 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - clicked on menu
+2019-08-13 12:21:07,779 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - user id has been entered
+2019-08-13 12:35:33,771 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - initilizing framework
+2019-08-13 12:35:56,852 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - implicit login
+2019-08-13 12:37:17,365 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - URL Has Been Entered
+2019-08-13 12:37:19,611 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - clicked on menu
+2019-08-13 12:37:32,419 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - user id has been entered
+2019-08-13 12:38:33,579 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - clicked on continue button
+2019-08-13 12:40:20,007 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - initilizing framework
+2019-08-13 12:40:39,291 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - implicit login
+2019-08-13 12:42:22,060 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - URL Has Been Entered
+2019-08-13 12:42:24,679 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - clicked on menu
+2019-08-13 12:44:07,378 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - initilizing framework
+2019-08-13 12:44:26,043 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - implicit login
+2019-08-13 12:45:55,380 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - URL Has Been Entered
+2019-08-13 12:45:57,891 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - clicked on menu
+2019-08-13 12:46:08,928 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - user id has been entered
+2019-08-13 12:47:09,952 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - clicked on continue button
+2019-08-13 12:47:14,361 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - select pack
+2019-08-13 12:47:22,070 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - password has been entered
+2019-08-13 12:50:15,836 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - initilizing framework
+2019-08-13 12:50:39,345 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - implicit login
+2019-08-13 12:52:44,105 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - URL Has Been Entered
+2019-08-13 12:52:55,589 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - clicked on menu
+2019-08-13 12:53:32,085 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - user id has been entered
+2019-08-13 12:56:19,212 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - initilizing framework
+2019-08-13 12:56:41,319 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - implicit login
+2019-08-13 12:58:30,950 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - URL Has Been Entered
+2019-08-13 12:58:41,229 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - clicked on menu
+2019-08-13 12:59:25,398 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - user id has been entered
+2019-08-13 12:59:41,741 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - clicked on continue button
+2019-08-13 12:59:58,277 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - select pack
+2019-08-13 13:00:16,405 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - password has been entered
+2019-08-13 13:01:52,220 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - select pack
+2019-08-13 15:14:04,103 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - initilizing framework
+2019-08-13 15:14:20,966 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - implicit login
+2019-08-13 15:15:40,123 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - URL Has Been Entered
+2019-08-13 15:15:42,733 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - clicked on menu
+2019-08-13 15:17:05,836 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - clicked on continue button
+2019-08-13 15:21:31,686 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 15:21:55,922 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 15:23:52,984 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 15:24:10,467 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 15:25:42,132 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-13 15:25:44,260 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-13 15:33:05,091 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 15:33:26,006 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 15:34:43,620 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-13 15:34:45,879 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-13 15:34:47,425 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-13 15:34:56,012 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-13 15:34:57,338 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-13 15:35:38,493 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 15:35:55,222 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 15:37:35,891 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-13 15:37:38,069 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-13 15:37:39,331 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-13 15:38:27,142 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 15:38:44,352 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 15:40:09,212 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-13 15:40:11,414 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-13 15:44:07,714 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 15:44:25,149 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 15:45:55,813 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-13 15:45:57,998 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-13 15:45:58,835 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-13 15:46:08,622 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-13 15:46:09,895 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-13 15:46:21,670 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - select pack
+2019-08-13 15:46:29,606 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-13 15:49:06,911 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 15:49:26,008 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 15:50:46,211 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-13 15:50:48,686 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-13 15:50:49,412 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-13 15:51:09,129 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-13 15:51:10,131 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-13 15:51:13,357 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - select pack
+2019-08-13 15:51:21,254 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-13 15:54:26,661 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 15:54:44,183 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 15:56:01,809 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-13 15:56:04,437 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-13 15:56:05,192 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-13 15:56:13,993 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-13 15:56:15,156 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-13 15:56:19,452 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - select pack
+2019-08-13 15:56:26,806 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-13 16:09:54,497 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 16:10:14,600 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 16:11:32,932 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-13 16:11:35,242 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-13 16:11:36,269 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-13 16:11:43,885 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-13 16:11:45,148 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-13 16:11:49,798 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - select pack
+2019-08-13 16:11:57,176 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-13 16:11:58,889 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - guest user sign up completed
+2019-08-13 16:13:00,378 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - select pack
+2019-08-13 16:15:13,616 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-13 16:15:13,617 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-13 16:15:13,617 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-13 16:15:13,643 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 16:32:03,668 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 16:32:25,712 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 17:02:16,969 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 17:02:33,589 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 17:07:27,539 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 17:07:45,731 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 17:09:05,251 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-13 17:09:07,384 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-13 17:09:08,268 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-13 17:10:23,304 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 17:10:43,059 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 17:12:12,582 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-13 17:12:15,147 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-13 17:12:15,918 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-13 17:12:25,211 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-13 17:12:26,535 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-13 17:13:33,701 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-13 17:14:36,538 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked to sign in button
+2019-08-13 17:14:41,506 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - select pack
+2019-08-13 17:17:55,180 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-13 17:17:55,181 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-13 17:17:55,182 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-13 17:17:55,205 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 17:18:15,680 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 17:18:41,864 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 17:21:30,309 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-13 17:21:38,145 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-13 17:21:47,097 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-13 17:22:02,088 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-13 17:22:09,615 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-13 17:23:28,607 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-13 17:24:57,479 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked to sign in button
+2019-08-13 17:25:11,863 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - select pack
+2019-08-13 19:06:56,502 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 19:09:31,352 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 19:09:50,851 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 19:12:01,784 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-13 19:12:04,128 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-13 19:12:04,859 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-13 19:12:13,650 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-13 19:12:14,814 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-13 19:13:22,536 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-13 19:14:25,848 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked to sign in button
+2019-08-13 19:14:31,230 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - select pack
+2019-08-13 19:17:44,993 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-13 19:17:44,994 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-13 19:17:44,994 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-13 19:17:45,041 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 19:29:03,023 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 19:29:26,260 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 19:32:29,465 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-13 19:32:31,830 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-13 19:32:32,567 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-13 19:35:14,813 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 19:35:39,438 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 19:37:01,760 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-13 19:37:04,014 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-13 19:37:04,828 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-13 19:37:13,501 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-13 19:37:14,800 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-13 19:38:22,275 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-13 19:39:25,062 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked to sign in button
+2019-08-13 19:39:29,914 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - select pack
+2019-08-13 19:42:43,823 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-13 19:42:43,824 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-13 19:42:43,824 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-13 19:42:43,851 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 19:43:00,485 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 19:43:23,676 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 19:44:44,589 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-13 19:44:46,656 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-13 19:44:48,417 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-13 19:56:07,985 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 19:56:28,938 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 19:57:46,927 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-13 19:57:49,125 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-13 19:57:50,219 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-13 19:57:59,799 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-13 19:58:01,214 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-13 19:59:09,064 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-13 20:00:11,710 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked to sign in button
+2019-08-13 20:03:22,394 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-13 20:03:22,395 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-13 20:03:22,396 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-13 20:03:22,452 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 20:03:46,206 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 20:04:10,566 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 20:05:32,437 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-13 20:05:34,719 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-13 20:05:35,593 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-13 20:05:46,913 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-13 20:05:48,474 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-13 20:06:56,392 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-13 20:07:59,081 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked to sign in button
+2019-08-13 20:08:06,379 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - select pack
+2019-08-13 20:13:14,108 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-13 20:13:14,109 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-13 20:13:14,109 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-13 20:13:14,140 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 20:18:58,960 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-13 20:19:20,358 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-13 20:23:33,452 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-13 20:23:36,043 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-13 20:23:37,151 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-13 20:23:46,601 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-13 20:23:47,874 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-13 20:24:55,285 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-13 20:25:58,371 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked to sign in button
+2019-08-13 20:26:05,570 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - select pack
+2019-08-13 20:29:21,184 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-13 20:29:21,185 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-13 20:29:21,185 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-13 20:29:21,214 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-14 15:57:08,427 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-14 15:57:31,950 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-14 15:58:52,674 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-14 15:58:55,043 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-14 15:58:55,713 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-14 15:59:21,254 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-14 15:59:22,524 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-14 16:00:28,475 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-14 16:01:30,963 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked to sign in button
+2019-08-14 16:01:35,998 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - select pack
+2019-08-14 16:04:48,698 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-14 16:04:48,699 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-14 16:04:48,699 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-14 16:04:48,725 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-14 16:07:45,988 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-14 16:08:08,410 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-14 16:15:31,936 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-14 16:15:49,879 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-14 16:17:08,725 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-14 16:17:12,410 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-14 16:17:12,964 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-14 16:17:44,211 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-14 16:17:45,400 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-14 16:18:53,580 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-14 16:19:56,713 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked to sign in button
+2019-08-14 16:20:01,740 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - select pack
+2019-08-14 16:23:12,859 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-14 16:23:12,859 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-14 16:23:12,860 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-14 16:23:12,887 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-14 16:30:56,368 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-14 16:31:19,464 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-14 16:32:40,641 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-14 16:32:42,883 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-14 16:32:43,699 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-14 16:33:03,853 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-14 16:33:05,028 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-14 16:34:11,500 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-14 16:35:15,027 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked to sign in button
+2019-08-14 16:35:48,109 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - select pack
+2019-08-14 16:39:55,261 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-14 16:39:55,262 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-14 16:39:55,262 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-14 16:39:55,288 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-14 16:40:54,603 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-14 16:41:17,078 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-14 16:46:32,926 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-14 16:46:55,225 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-14 16:48:15,912 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-14 16:48:18,097 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-14 16:48:18,836 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-14 16:48:29,546 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-14 16:48:30,778 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-14 16:49:36,536 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-14 16:50:39,244 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked to sign in button
+2019-08-14 16:50:44,065 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - select pack
+2019-08-14 16:53:55,630 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-14 16:53:55,630 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-14 16:53:55,631 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-14 16:53:55,662 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-15 14:46:33,268 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - initilizing framework
+2019-08-15 14:46:52,706 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - implicit login
+2019-08-15 14:48:16,811 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - URL Has Been Entered
+2019-08-15 14:48:19,247 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - clicked on menu
+2019-08-15 14:48:20,002 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.Subscribe -INFO - clicked on sign in button
+2019-08-15 14:50:57,526 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - initilizing framework
+2019-08-15 14:51:16,532 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - implicit login
+2019-08-15 14:52:35,799 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - URL Has Been Entered
+2019-08-15 14:52:37,833 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - clicked on menu
+2019-08-15 14:52:38,850 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - clicked on sign in button
+2019-08-15 14:52:50,058 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - user id has been entered
+2019-08-15 14:52:51,376 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - clicked on continue button
+2019-08-15 21:39:15,492 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-15 21:39:33,792 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-15 21:40:53,957 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-15 21:40:56,400 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-15 21:40:57,654 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-15 21:41:09,427 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-15 21:41:11,248 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-15 21:42:16,954 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-15 21:42:19,168 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - guest user sign up completed
+2019-08-15 21:48:24,668 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-15 21:48:24,669 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-15 21:48:24,669 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-15 21:48:24,706 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-15 21:56:00,716 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - implicit login
+2019-08-15 21:56:14,258 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.SubscribeUserSubscribed -INFO - implicit login
+2019-08-15 21:56:32,765 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-15 21:57:21,243 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-15 21:57:41,843 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-15 21:59:00,522 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-15 21:59:02,584 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-15 21:59:03,923 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-15 21:59:14,687 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-15 21:59:16,136 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-15 22:00:23,973 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-15 22:01:26,977 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked to sign in button
+2019-08-15 22:06:31,466 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-15 22:06:31,467 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-15 22:06:31,467 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-15 22:06:31,499 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-16 11:24:03,044 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-16 11:26:18,098 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-16 11:26:44,628 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-16 11:29:07,285 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-16 11:29:20,067 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-16 11:29:31,331 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-16 11:29:43,610 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-16 11:30:45,485 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-16 11:46:54,985 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-16 11:47:19,025 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-16 11:49:12,112 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-16 11:49:26,608 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-16 11:49:35,304 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-16 11:50:09,864 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-16 11:50:29,455 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-16 11:51:55,695 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-16 11:54:28,159 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - guest user sign up completed
+2019-08-16 11:58:01,404 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-16 11:58:23,535 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-16 12:00:22,157 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-16 12:00:31,102 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-16 12:00:52,616 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-16 12:01:41,492 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-16 12:02:03,942 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-16 12:03:56,591 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-16 12:04:05,775 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-16 12:04:19,501 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-16 12:04:30,390 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-16 12:04:49,797 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-16 12:06:21,245 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-16 12:08:56,693 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - guest user sign up completed
+2019-08-16 12:16:33,880 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-16 12:17:00,116 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-16 12:18:56,241 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-16 12:19:04,846 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-16 12:19:31,261 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-16 12:19:54,501 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-16 12:20:07,797 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-16 12:21:43,838 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-16 12:27:24,777 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-16 12:27:42,357 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-16 12:29:38,638 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-16 12:29:47,308 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-16 12:30:03,756 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-16 12:30:16,235 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-16 12:30:37,622 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-16 12:32:17,707 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-16 12:37:32,423 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-16 12:37:47,779 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-16 12:39:06,527 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-16 12:39:08,468 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-16 12:39:09,799 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on sign in button
+2019-08-16 12:39:28,535 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-16 12:39:29,786 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-16 12:40:37,440 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-16 12:42:39,390 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - guest user sign up completed
+2019-08-16 12:47:05,544 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-16 12:47:25,792 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-16 12:49:22,231 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-16 12:49:41,021 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-16 12:51:00,053 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-16 12:51:02,322 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-16 12:54:40,674 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-16 12:55:01,090 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-16 12:56:19,861 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-16 12:57:58,629 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-16 12:58:18,370 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-16 12:59:37,440 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-16 12:59:39,824 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-16 13:00:23,707 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-16 13:02:03,725 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-16 13:57:01,406 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-16 13:57:53,198 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-16 14:04:24,154 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-16 14:04:45,616 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-16 14:06:32,705 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-16 14:06:38,614 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-16 14:08:20,887 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-16 14:15:24,340 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-16 14:17:50,076 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-16 14:18:18,110 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-16 14:20:07,998 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-16 14:20:14,510 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-16 14:21:46,518 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-16 14:21:59,525 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-16 14:22:14,765 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-16 14:27:50,813 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-16 14:27:53,172 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-16 14:27:59,985 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-16 14:28:40,437 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-16 15:15:25,201 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-16 15:15:50,112 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-16 15:17:46,264 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-16 15:17:52,920 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-16 15:19:26,440 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-16 15:19:36,096 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-19 13:02:44,217 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 13:03:13,703 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 13:08:18,485 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 13:08:57,038 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 13:09:15,580 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 13:12:14,537 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-19 13:12:23,913 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-19 13:14:01,192 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - user id has been entered
+2019-08-19 13:14:13,513 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on continue button
+2019-08-19 13:14:26,554 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - password has been entered
+2019-08-19 13:19:36,432 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - device has been cleared
+2019-08-19 14:43:57,451 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 14:44:24,435 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 14:46:43,687 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-19 14:46:44,798 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-19 15:08:22,048 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 15:08:46,184 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 15:09:58,427 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 15:10:35,970 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 15:12:40,659 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-19 15:12:50,962 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-19 15:14:29,235 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 15:15:14,902 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 15:15:37,258 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 15:17:51,652 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-19 15:18:00,051 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-19 15:21:38,166 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 15:22:16,808 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 15:22:37,145 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 15:24:29,276 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-19 15:24:39,457 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-19 15:24:57,249 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - click on play button
+2019-08-19 15:29:11,821 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 15:29:36,873 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 15:31:23,027 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-19 15:31:28,677 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-19 15:31:46,728 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - click on play button
+2019-08-19 15:34:06,556 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 15:34:28,316 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 15:35:47,809 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-19 15:35:49,988 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-19 15:35:55,279 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - click on play button
+2019-08-19 15:36:56,427 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - content played
+2019-08-19 15:36:56,428 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-19 15:36:56,428 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-19 15:36:56,503 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 15:57:38,460 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 15:57:57,488 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 15:59:16,719 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-19 15:59:19,322 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-19 16:03:06,506 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 16:03:27,701 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 16:05:48,973 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-19 16:05:57,053 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-19 16:06:07,324 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - click on play button
+2019-08-19 16:07:31,692 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - content played
+2019-08-19 16:07:34,548 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-19 16:07:37,159 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-19 16:11:20,964 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 16:11:37,787 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 16:13:33,029 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-19 16:13:40,748 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-19 16:13:59,235 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - click on play button
+2019-08-19 16:20:20,949 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 16:20:33,093 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 16:21:57,772 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 16:22:51,802 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 16:24:42,270 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-19 16:24:48,683 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-19 16:24:58,595 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - click on play button
+2019-08-19 16:26:46,962 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - content played
+2019-08-19 16:26:57,377 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-19 16:27:03,041 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-19 16:29:41,402 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 16:29:57,383 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 16:31:16,436 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-19 16:31:18,495 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-19 16:31:23,588 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - click on play button
+2019-08-19 16:32:34,217 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - content played
+2019-08-19 16:32:36,108 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-19 16:32:36,109 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-19 16:32:36,136 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 16:36:11,303 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 16:37:02,394 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 16:38:22,738 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 16:38:49,554 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 16:40:57,750 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 16:41:46,726 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - initilizing framework
+2019-08-19 16:42:05,195 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login
+2019-08-19 16:44:01,034 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - URL Has Been Entered
+2019-08-19 16:44:08,704 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - clicked on menu
+2019-08-19 16:44:24,799 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - click on play button
+2019-08-19 16:45:48,328 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - content played
+2019-08-19 16:46:30,696 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - navigate to home page
+2019-08-19 16:46:34,418 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - TimeOut:60
+2019-08-19 16:46:58,527 - Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -INFO - implicit login

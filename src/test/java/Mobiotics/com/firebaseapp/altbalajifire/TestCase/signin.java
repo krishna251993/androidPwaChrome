@@ -9,12 +9,17 @@ import Mobiotics.com.firebaseapp.altbalajifire.Constant.BaseTest;
 public class signin extends BaseTest {
 	
 	@Test
-	public void sign() throws Exception
+	public void Sign() throws Exception
 	{
 		preCondition();
+		
+		
+		/*
 		if(signInStatus==true) {
+			
 			LoginPage sign=new LoginPage();
 			sign.clickTosignin();
+			
 			LoginPage lookpage=new LoginPage();
 			lookpage.setUserName(UN);
 			LoginPage continu=new LoginPage();
@@ -29,8 +34,12 @@ public class signin extends BaseTest {
 		}
 		
 		else if(subscribeNowStatus==false) {
-			LoginPage sign=new LoginPage();
-			sign.clickTosignin();
+			
+			SigninRegisterUser subscribebtn = new SigninRegisterUser();
+			subscribebtn.clickTosubscribenow();
+			SigninRegisterUser selectPack =new SigninRegisterUser();
+			selectPack.clickToSelectpack();
+			
 			LoginPage lookpage=new LoginPage();
 			lookpage.setUserName(UN);
 			LoginPage continu=new LoginPage();
@@ -43,8 +52,10 @@ public class signin extends BaseTest {
 			device.clickToDeviceClear();
 			
 		}
-		
-
+		*/
+		suttdown();
 		
 	}
+		
 }
+

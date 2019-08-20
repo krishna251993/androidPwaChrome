@@ -2,19 +2,29 @@ package Mobiotics.com.firebaseapp.altbalajifire.Constant;
 
 
 
+import java.util.HashMap;
 import java.util.concurrent.TimeUnit;
+
+import javax.swing.plaf.basic.BasicInternalFrameTitlePane.SystemMenuBar;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.apache.xmlbeans.impl.xb.xsdschema.Public;
 import org.aspectj.lang.annotation.After;
+import org.junit.AfterClass;
+import org.junit.BeforeClass;
+import org.openqa.selenium.Alert;
 import org.openqa.selenium.WebElement;
-
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterSuite;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.BeforeTest;
+
+import com.gargoylesoftware.htmlunit.javascript.host.Map;
 
 import Mobiotics.com.firebaseapp.altbalajifire.CommonPage.LoginPage;
 import generic.Property;
@@ -40,6 +50,8 @@ public class BaseTest implements AutomationConstants {
 	public static String appActivity;
 	public static long IMPLICIT;
 	public static long EXPLICIT;
+	public static String Age;
+	
 	
 	public static boolean signInStatus;
 	public static boolean subscribeNowStatus;
@@ -79,13 +91,13 @@ public class BaseTest implements AutomationConstants {
 		platFormVersion=Property.getPropertyValue(CONFIG_PATH+CONFIG_FILE, "platFormVersion");
 		appPackage=Property.getPropertyValue(CONFIG_PATH+CONFIG_FILE, "appPackage");
 		appActivity=Property.getPropertyValue(CONFIG_PATH+CONFIG_FILE, "appActivity");
-		
+		Age=Property.getPropertyValue(CONFIG_PATH+CONFIG_FILE,"Age");
 		
 		
 		
 	}
 	
-	@BeforeMethod
+	@BeforeTest
 	public void initApplication() throws Exception {
 		initFrameWork();
 		
@@ -104,6 +116,13 @@ public class BaseTest implements AutomationConstants {
 
 		driver= new AndroidDriver<WebElement>(url,caps);
 
+		/*
+		ChromeOptions options = new ChromeOptions();
+		HashMap<String, Object> prefs = new HashMap<String, Object>();
+		prefs.put("credentials_enable_service", false);
+		prefs.put("profile.password_manager_enabled", false);
+		options.setExperimentalOption("prefs", prefs);
+		*/
 		
 //driver.manage().window().maximize();
 
@@ -117,7 +136,8 @@ public class BaseTest implements AutomationConstants {
 	}
 	
 	
-	public void preCondition() throws Exception {
+	public void preCondition() throws Exception 
+	{
 		if(loginRequired) {
 			log.info("implicit login");
 			LoginPage loginpage=new LoginPage();
@@ -130,25 +150,25 @@ public class BaseTest implements AutomationConstants {
 			log.info("URL Has Been Entered");
 			
 			
-			loginpage.clickToMenushow();
-			
+			loginpage.clickToMenu();
 			log.info("clicked on menu");
 			
+			loginpage.clickToShows();
+			
+		
 			
 			
 			
 			
-			
-			
-			
-			
+			/*
 			if(loginpage.isLogoDisplayed()) {
 				
 				loginpage.clickTosignin();
 				signInStatus=true;
 				log.info("clicked on sign in");
 			}
-			else  {
+			else if (signInStatus=false)
+			{
 				
 				
 				SigninRegisterUser subscribebtn = new SigninRegisterUser();
@@ -157,8 +177,7 @@ public class BaseTest implements AutomationConstants {
 				
 				subscribeNowStatus=true;
 			}
-			
-			
+			*/
 			
 			
 			
@@ -167,65 +186,271 @@ public class BaseTest implements AutomationConstants {
 			
 			
 			/*
-			loginpage.clickTosignin();
 			
-			SigninRegisterUser subscribebtn = new SigninRegisterUser();
-			subscribebtn.clickTosubscribenow();
-			log.info("clicked on subscribe");
-				
-				*/
-				
-				
+			loginpage.clickTosignin();
+			log.info("clicked on sign in button");
+			
+			
 				try {
-					SigninRegisterUser selectPack =new SigninRegisterUser();
-					selectPack.clickToSelectpack();
+					loginpage.setUserName(UN);
+					log.info("user id has been entered");
 				} catch (Exception e) {
 					// TODO Auto-generated catch block
 					System.out.println(e.getMessage());
 				}
+				
+								
+				try {
+					loginpage.clickTocontinue();
+					log.info("clicked on continue button");
+				} catch (Exception e) {
+					// TODO Auto-generated catch block
+					System.out.println(e.getMessage());
+				}
+				
+				try {
+					loginpage.clickToSelectpack();
+					log.info("select pack");
+				} catch (Exception e) {
+					// TODO Auto-generated catch block
+					System.out.println(e.getMessage());
+				}
+				
+				try {
+					loginpage.setPassword(PW);
+					log.info("password has been entered");
+				} catch (Exception e) {
+					// TODO Auto-generated catch block
+					System.out.println(e.getMessage());
+				}
+				
+				try {
+					loginpage.Ageicon();
+				} catch (Exception e) {
+					// TODO: handle exception
+					System.out.println(e.getMessage());
+				}
+				
+				try {
+					loginpage.Selectage();
+				} catch (Exception e) {
+					// TODO: handle exception
+					System.out.println(e.getMessage());
+				}
+				
+				
+				
+				try {
+					loginpage.Guestcontinue();
+					log.info("guest user sign up completed");
+				} catch (Exception e) {
+					// TODO Auto-generated catch block
+					System.out.println(e.getMessage());
+				}
+				
+				
+				try {
+					loginpage.clickToProceed();
+					log.info("clicked to sign in button");
+				} catch (Exception e) {
+					// TODO Auto-generated catch block
+					System.out.println(e.getMessage());
+				}
+				
+				try {
+					loginpage.clickToSelectpack();
+					log.info("select pack");
+				} catch (Exception e) {
+					// TODO Auto-generated catch block
+					System.out.println(e.getMessage());
+				}
+				
+				try {
+					loginpage.PaytmArrow();
+					loginpage.PaytmproceedBtn();
+				} catch (Exception e) {
+					// TODO Auto-generated catch block
+					System.out.println(e.getMessage());
+				}
+				
+				try {
+					loginpage.ClickTobackarrow();
+					driver.navigate().back();
+				} catch (Exception e) {
+					// TODO Auto-generated catch block
+					System.out.println(e.getMessage());
+				}
+				
+				
+				
+				try {
+					loginpage.ConfirmBtn();
+				} catch (Exception e) {
+					// TODO Auto-generated catch block
+					System.out.println(e.getMessage());
+				}
+				
+				try {
+					loginpage.clickToDeviceClear();
+					log.info("device has been cleared");
+				} catch (Exception e) {
+					// TODO Auto-generated catch block
+					System.out.println(e.getMessage());
+				}
+			 */
+			 
+			 
+			 
+			 
+			
+			/*
+			loginpage.clickTosubscribeNow();
+			
+					try {
+						loginpage.clickToSelectpack();
+						log.info("pach has been selecteed");
+					} catch (Exception e) {
+						// TODO: handle exception
+						System.out.println(e.getMessage());
+					}
+				
+					try {
+					
+						loginpage.setUserName(UN);
+						log.info("user id has been entered");
+					} catch (Exception e) {
+						// TODO Auto-generated catch block
+						System.out.println(e.getMessage());
+					}
+					
+					
+					try {
+						loginpage.clickTocontinue();
+						log.info("clicked on continue button");
+					} catch (Exception e) {
+						// TODO Auto-generated catch block
+						System.out.println(e.getMessage());
+					}
+					
+					
+					try {
+						loginpage.setPassword(PW);
+						log.info("password has been entered");
+					} catch (Exception e) {
+						// TODO Auto-generated catch block
+						System.out.println(e.getMessage());
+					}
+					
+					try {
+						loginpage.Guestcontinue();
+					} catch (Exception e) {
+						// TODO Auto-generated catch block
+						System.out.println(e.getMessage());
+					}
+					try {
+						loginpage.clickTosignin();
+					} catch (Exception e) {
+						// TODO Auto-generated catch block
+						System.out.println(e.getMessage());
+					}
+					
+					try {
+						loginpage.PaytmArrow();
+						loginpage.PaytmproceedBtn();
+					} catch (Exception e) {
+						// TODO Auto-generated catch block
+						System.out.println(e.getMessage());
+					}
+					
+					try {
+						loginpage.ClickTobackarrow();
+						driver.navigate().back();
+					} catch (Exception e) {
+						// TODO Auto-generated catch block
+						System.out.println(e.getMessage());
+					}
+					
+					try {
+						loginpage.ConfirmBtn();
+					} catch (Exception e) {
+						// TODO Auto-generated catch block
+						System.out.println(e.getMessage());
+					}
+					
+					try {
+						loginpage.clickToDeviceClear();
+						log.info("device has been cleared");
+					} catch (Exception e) {
+						// TODO Auto-generated catch block
+						System.out.println(e.getMessage());
+					}
+					*/
+					
+					
+					loginpage.Homeplayicon();
+					log.info("click on play button");
+					
+					loginpage.AltPermission();
+				
+					
+					try {
+						loginpage.PlayBtn();
+						log.info("click on play button");
+					} catch (Exception e) {
+						// TODO Auto-generated catch block
+						System.out.println(e.getMessage());
+					}
+					
+					loginpage.clickToPlaycontent();
+					log.info("content played");
+					Thread.sleep(10000);
+					driver.navigate().back();
+					Thread.sleep(10000);
+					driver.navigate().back();
+				
+				
+				//loginpage.Cancelsavepassword();
+				
+				log.info("navigate to home page");
+				} 
 			
 			
 			
 			
 			
-			loginpage.setUserName(UN);
-			log.info("user id has been entered");
-			
-			loginpage.clickTocontinue();
+		
 			
 			
-			loginpage.setPassword(PW);
-			log.info("password has been entered");
-			
-			loginpage.clickToProceed();
-			
-			try {
-				loginpage.clickToDeviceClear();
-				log.info("device has been cleared");
-			} catch (Exception e) {
-				// TODO Auto-generated catch block
-				System.out.println(e.getMessage());
-			}
-			
-			log.info("navigate to home page");
 			
 			
-			loginRequired=true;
-			logoutRequired=true;
 			
 			
 			
 		}
-	}
-	
-	@AfterMethod
-	public void after_Test() 
-	{
-		log.info("test completed");
-		driver.quit();
-	}
-	
-	
 	
 
+	
+	@AfterTest
+	public void suttdown() throws Exception {
+		if(logoutRequired) {
+			
+			
+			LoginPage loginPage=new LoginPage();
+			
+					
+			loginPage.enterURL(Application_URL);
+			
+			loginPage.clickToMenu();
+			loginPage.Setting();
+			loginPage.SettingAccount();
+			loginPage.Logoutbtn();
+			
+			
+			log.info("clicked on menu");
+			log.info("implicit logout");
+			driver.quit();
+		}
+	
+	
+	}
 }

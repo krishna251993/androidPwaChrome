@@ -5,9 +5,7 @@
     <classes>
       <class name="Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin">
         <methods>
-          <include name="after_Test"/>
-          <include name="initApplication"/>
-          <include name="sign"/>
+          <include name="Sign"/>
         </methods>
       </class> <!-- Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -->
     </classes>
