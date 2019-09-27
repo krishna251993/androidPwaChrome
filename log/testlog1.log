@@ -1410,3 +1410,113 @@
 2019-08-19 16:46:30,696 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin - navigate to home page
 2019-08-19 16:46:34,418 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin - TimeOut:60
 2019-08-19 16:46:58,527 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin - implicit login
+2019-08-20 15:00:18,312 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-20 15:00:48,363 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-20 15:02:55,045 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-08-20 15:03:08,087 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - clicked on menu
+2019-08-20 15:03:24,652 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - click on play button
+2019-08-20 15:04:00,524 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-20 15:04:20,796 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-20 15:05:40,513 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-08-20 15:05:42,550 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - clicked on menu
+2019-08-20 15:20:01,469 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-20 15:21:41,777 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-20 15:22:01,690 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-20 15:23:51,285 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-08-20 15:24:15,850 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-20 15:24:35,971 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-20 15:27:34,090 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-20 15:29:02,319 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-20 15:29:24,187 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-20 15:29:40,930 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-20 15:31:24,581 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-08-20 15:31:35,986 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - clicked on menu
+2019-08-20 16:03:44,368 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-20 16:04:02,292 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-20 16:06:29,622 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-08-20 16:06:31,810 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - clicked on menu
+2019-08-20 16:07:25,519 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - click on play button
+2019-08-20 16:11:57,459 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-20 16:12:18,663 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-20 16:14:49,116 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-08-20 16:14:52,907 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - clicked on menu
+2019-08-20 16:15:18,515 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-20 16:15:41,203 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-20 16:18:14,770 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-20 16:18:34,444 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-20 16:20:29,698 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-08-20 16:20:31,395 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - clicked on menu
+2019-08-20 16:35:39,280 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-20 16:36:06,226 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-20 17:23:41,901 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-20 17:24:54,922 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-20 17:26:02,775 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-20 17:28:04,544 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-20 17:28:22,058 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-20 17:33:07,666 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-08-20 17:50:50,820 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-20 17:51:02,575 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-20 17:51:43,531 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-20 17:51:57,032 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-20 17:57:20,320 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-08-26 13:37:38,539 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-26 13:38:14,742 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-26 13:41:32,484 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-08-26 13:41:34,908 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - clicked on menu
+2019-08-26 13:41:42,937 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - click on play button
+2019-08-26 14:33:51,593 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-26 14:34:08,944 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-26 14:37:26,591 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-08-26 14:37:29,653 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - clicked on menu
+2019-08-26 14:37:37,957 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - click on play button
+2019-08-26 14:55:15,711 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-26 14:55:35,052 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-26 14:58:50,273 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-08-26 14:58:52,887 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - clicked on menu
+2019-08-26 14:58:55,266 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - navigate to home page
+2019-08-26 14:58:55,267 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - TimeOut:60
+2019-08-26 14:59:05,370 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-26 18:00:46,751 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-26 18:01:05,615 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-26 18:04:21,086 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-08-26 18:04:21,087 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - navigate to home page
+2019-08-26 18:51:46,063 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-26 18:52:06,021 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-26 18:55:22,338 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-08-26 18:55:24,307 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - clicked on menu
+2019-08-26 18:55:26,032 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - navigate to home page
+2019-08-26 18:56:58,845 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-08-26 18:57:34,604 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-08-26 19:02:22,006 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-08-26 19:02:30,219 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - clicked on menu
+2019-08-26 19:02:36,147 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - navigate to home page
+2019-08-26 19:03:38,113 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - TimeOut:60
+2019-08-26 19:04:00,345 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-09-25 15:55:06,862 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-09-25 15:58:40,489 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-09-25 16:00:28,092 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-09-25 16:00:39,491 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-09-25 16:06:50,149 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-09-25 16:09:21,365 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-09-25 16:09:32,521 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-09-25 16:13:45,146 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-09-26 12:41:22,787 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-09-26 12:41:35,294 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-09-26 12:44:49,040 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-09-26 12:50:00,317 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-09-26 12:50:11,060 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-09-26 12:53:39,849 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-09-26 15:00:56,066 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-09-26 15:01:08,239 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-09-26 15:04:02,603 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-09-26 15:04:13,723 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-09-26 15:08:27,477 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-09-27 10:18:56,621 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-09-27 10:19:21,464 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-09-27 10:19:33,545 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-09-27 10:22:46,298 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-09-27 10:30:10,264 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - initilizing framework
+2019-09-27 10:30:22,056 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - implicit login
+2019-09-27 10:34:34,867 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.Favourite - URL Has Been Entered
+2019-09-27 11:13:50,153 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin - initilizing framework
+2019-09-27 11:15:50,327 [main] INFO Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin - initilizing framework

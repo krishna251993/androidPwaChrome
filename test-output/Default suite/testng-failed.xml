@@ -5,6 +5,8 @@
     <classes>
       <class name="Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin">
         <methods>
+          <include name="suttdown"/>
+          <include name="initApplication"/>
           <include name="Sign"/>
         </methods>
       </class> <!-- Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin -->

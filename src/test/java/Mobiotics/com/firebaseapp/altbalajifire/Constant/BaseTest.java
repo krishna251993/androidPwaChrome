@@ -30,6 +30,9 @@ import Mobiotics.com.firebaseapp.altbalajifire.CommonPage.LoginPage;
 import generic.Property;
 import io.appium.java_client.android.AndroidDriver;
 import Mobiotics.com.firebaseapp.altbalaji.SigninUserRegister.SigninRegisterUser;
+import Mobiotics.com.firebaseapp.altbalaji.favourite.favourite;
+
+
 
 
 public class BaseTest implements AutomationConstants {
@@ -97,7 +100,7 @@ public class BaseTest implements AutomationConstants {
 		
 	}
 	
-	@BeforeTest
+	@BeforeMethod
 	public void initApplication() throws Exception {
 		initFrameWork();
 		
@@ -181,6 +184,11 @@ public class BaseTest implements AutomationConstants {
 			
 			
 			
+			
+			
+			
+			
+	/*-------------------------------------------SIGN IN-----------------------------------------------*/	
 			
 			
 			
@@ -300,10 +308,17 @@ public class BaseTest implements AutomationConstants {
 			 */
 			 
 			 
-			 
-			 
 			
-			/*
+			
+			
+			
+			 
+/*-----------------------------------------SUBSCRIBED---------------------------------------------------------------*/			 
+			
+			
+			
+			
+			
 			loginpage.clickTosubscribeNow();
 			
 					try {
@@ -384,8 +399,10 @@ public class BaseTest implements AutomationConstants {
 						// TODO Auto-generated catch block
 						System.out.println(e.getMessage());
 					}
-					*/
 					
+					
+			
+			
 					
 					loginpage.Homeplayicon();
 					log.info("click on play button");
@@ -413,24 +430,29 @@ public class BaseTest implements AutomationConstants {
 				
 				log.info("navigate to home page");
 				} 
-			
-			
-			
-			
-			
 		
+		
+		
+		
+		
+		
+		
+		
+		
+/*------------------------FAVOURITE---------------------------------------------------------------*/		
+		
+		favourite selectcontent=new favourite();
+		selectcontent.SelectContent();
+			
+		favourite btnfavourite=new favourite();
+		btnfavourite.favouriteIcon();	
 			
 			
-			
-			
-			
-			
-			
-		}
+	}
 	
-
 	
-	@AfterTest
+	
+	@AfterMethod
 	public void suttdown() throws Exception {
 		if(logoutRequired) {
 			
@@ -448,7 +470,7 @@ public class BaseTest implements AutomationConstants {
 			
 			log.info("clicked on menu");
 			log.info("implicit logout");
-			driver.quit();
+			
 		}
 	
 	
