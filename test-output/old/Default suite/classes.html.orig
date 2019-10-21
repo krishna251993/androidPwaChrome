@@ -1,0 +1,43 @@
+<table border='1'>
+<tr>
+<th>Class name</th>
+<th>Method name</th>
+<th>Groups</th>
+</tr><tr>
+<td>Mobiotics.com.firebaseapp.altbalajifire.TestCase.signin</td>
+<td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr>
+<td align='center' colspan='3'>@Test</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<<<<<<< HEAD
+<td>Sign</td>
+=======
+<td>sign</td>
+>>>>>>> f663aee40a1527f4a20650b457c74d178f9f04cb
+<td>&nbsp;</td></tr>
+<tr>
+<td align='center' colspan='3'>@BeforeClass</td>
+</tr>
+<tr>
+<td align='center' colspan='3'>@BeforeMethod</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>initApplication</td>
+<td>&nbsp;</td></tr>
+<tr>
+<td align='center' colspan='3'>@AfterMethod</td>
+</tr>
+<tr>
+<<<<<<< HEAD
+<td>&nbsp;</td>
+<td>suttdown</td>
+<td>&nbsp;</td></tr>
+<tr>
+=======
+>>>>>>> f663aee40a1527f4a20650b457c74d178f9f04cb
+<td align='center' colspan='3'>@AfterClass</td>
+</tr>
+</table>
